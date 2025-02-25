@@ -65,7 +65,6 @@
 {"key":"naixxzy.com","name":"★奶香香(直连)","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"laosebizy.com","name":"💕老色逼(直连)","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"www.caoliuzyw.com","name":"★草榴(直连)","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0,"ext":"./lib/token.json"}
 ],
 "rules":[
